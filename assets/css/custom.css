@@ -61,7 +61,7 @@
     margin-top: 0;
 }
 
-.invenit_tab_area .service-item.invenit_service_item img {
+.invenit_tab_area .service-item.invenit_service_item img, .service-item.invenit_service_item img {
     width: 40%;
 }
 
